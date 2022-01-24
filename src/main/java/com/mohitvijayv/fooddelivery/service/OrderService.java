@@ -4,8 +4,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+import com.mohitvijayv.fooddelivery.common.Pair;
 import com.mohitvijayv.fooddelivery.dto.OrderDto;
-import javafx.util.Pair;
 import org.springframework.stereotype.Service;
 
 import static com.mohitvijayv.fooddelivery.common.Constants.COOKING_SLOTS;
